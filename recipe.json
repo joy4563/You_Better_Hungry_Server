@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Cheeseburger",
+    "ingredients": ["ground beef", "cheddar cheese", "lettuce", "tomato", "onion", "buns"],
+    "method": "1. Preheat grill to medium-high heat. \n2. Divide ground beef into 4 equal portions and shape into patties. \n3. Grill patties for 3-4 minutes per side or until cooked through. \n4. Add cheese to the top of the patties during the last minute of grilling. \n5. Toast buns on the grill. \n6. Assemble burgers with lettuce, tomato, onion, and any other desired toppings. ",
+    "rating": 4.5,
+    "image": "https://media.istockphoto.com/id/617364554/photo/hamburger-with-fries.jpg?s=612x612&w=0&k=20&c=t8fMIRewNFRU7YSMNWIx2axoyZNjsh0cxHM4vYMALf8="
+  },
+  {
+    "id": 2,
+    "name": "Fried Chicken",
+    "ingredients": ["chicken pieces", "buttermilk", "flour", "salt", "pepper", "vegetable oil"],
+    "method": "1. Marinate chicken pieces in buttermilk for at least 1 hour. \n2. Combine flour, salt, and pepper in a shallow dish. \n3. Dredge chicken in flour mixture, shaking off excess. \n4. Heat vegetable oil in a large skillet over medium-high heat. \n5. Fry chicken pieces in oil, turning occasionally, until golden brown and cooked through, about 20-25 minutes. \n6. Drain on paper towels and serve.",
+    "rating": 4.0,
+    "image": "https://media.istockphoto.com/id/452813985/photo/plate-of-fried-chicken-on-blue-plaid-towel.jpg?s=612x612&w=0&k=20&c=e_03DvZFXhvbMR5eBiflKJ2nnQnoaBnufrT37h6Wf7s="
+  },
+  {
+    "id": 3,
+    "name": "Macaroni and Cheese",
+    "ingredients": ["elbow macaroni", "butter", "flour", "milk", "cheddar cheese", "salt", "pepper"],
+    "method": "1. Cook macaroni according to package directions. \n2. Drain and set aside. \n3. In a large saucepan, melt butter over medium heat. \n4. Whisk in flour and cook for 1-2 minutes, stirring constantly. \n5. Gradually whisk in milk and bring to a simmer. \n6. Cook for 3-4 minutes, or until mixture has thickened. \n7. Remove from heat and stir in cheese until melted. \n8. Season with salt and pepper to taste. \n9. Add macaroni to cheese sauce and stir until coated. \n10. Serve hot.",
+    "rating": 4.2,
+    "image": "https://media.istockphoto.com/id/1167505438/photo/mac-and-cheese-traditional-american-dish-macaroni-pasta-and-a-cheese-sauce.jpg?s=612x612&w=0&k=20&c=sxF0OWzfXFX2-8_DpwNBWrxJI8erKUZUQUwXsyafI8M="
+  }
+]
